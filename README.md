@@ -10,3 +10,5 @@ It adds a new input in every widget asking for bootstrap css and wrap the HTML w
 
 * Download, install and active the plugin
 * Modify the widgets in *Appearance > Widgets*
+
+More information in the [original post in Sentido Web](http://sentidoweb.com/2016/06/15/modificar-el-contenido-de-cualquier-widget-de-wordpress.php) (in Spanish)
